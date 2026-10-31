@@ -1,0 +1,6 @@
+{
+  "name": "LCKDIN - Editorial Internship & Co-founder Matching",
+  "description": "A minimal, editorial mobile-first discovery app for college students to find top internships, match with project collaborators, and auto-apply with a single swipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
